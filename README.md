@@ -5,7 +5,7 @@
 <p><i>To use my sudoku solver</i>:</p>
 <ol>
 <li>Fill in the 9x9 array in my main function at the bottom of the file, based on the already filled squares in the Sudoku you're solving, by replacing the '-1' with those numbers.</li>
-<li>Compile the file (I use 'cc -Wall -Wextra -Werror sudoku_solver.c' -o solve-exe)</li>
+<li>Compile the file (I use 'cc -Wall -Wextra -Werror sudoku_solver.c -o solve-exe'</li>
 <li>Run the executable ('./solve-exe')</li>
 </ol>
 
